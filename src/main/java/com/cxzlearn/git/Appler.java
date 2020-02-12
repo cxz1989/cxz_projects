@@ -16,5 +16,9 @@ public class Appler {
 	public String testGit() {
 		return "";
 	}
+	
+	public void testSynMethod() {
+	
+	}
 
 }
