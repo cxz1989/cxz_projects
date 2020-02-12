@@ -6,5 +6,10 @@ package com.cxzlearn.git;
  *
  */
 public interface AppleDao {
+	
+	public void testssh();
+	
+	
+	public void testgit();
 
 }
