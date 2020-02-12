@@ -20,9 +20,14 @@ public class Appler {
 		return "";
 	}
 	
+
 	public List<String> getAllInfoByName(String username){
 		List<String> list = new ArrayList<String>();
 		return list;
+	}
+	
+	public void testSynMethod() {
+	
 	}
 
 }
