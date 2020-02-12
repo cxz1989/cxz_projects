@@ -6,6 +6,7 @@ public class Student {
 	private String password;
 	private int age;
 	private String address;
+	private long prices;
 
 	public String getName() {
 		return name;
@@ -38,5 +39,15 @@ public class Student {
 	public void setAddress(String address) {
 		this.address = address;
 	}
+
+	public long getPrices() {
+		return prices;
+	}
+
+	public void setPrices(long prices) {
+		this.prices = prices;
+	}
+	
+	
 
 }
