@@ -1,5 +1,10 @@
 package com.cxzlearn.git;
 
+/**
+ * appler¿‡
+ * @author Administrator
+ *
+ */
 public class Appler {
 	
 	
